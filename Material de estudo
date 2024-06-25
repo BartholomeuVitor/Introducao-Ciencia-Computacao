@@ -1,0 +1,49 @@
+# Material de estudo :
+-Shell Script e Terminal:
+Introdução ao Shell Scripting:
+
+Sintaxe básica do shell script.
+Variáveis e tipos de dados.
+Estruturas de controle (if-else, loops).
+Funções em shell script.
+Manipulação de Arquivos e Diretórios:
+
+- Comandos básicos do terminal para navegação e manipulação.
+Redirecionamento de entrada e saída.
+Uso de wildcards e expressões regulares.
+
+- Automatização de Tarefas:
+Scripting para backup e restauração de dados.
+Agendamento de tarefas com cron jobs.
+Integração com outros programas e scripts.
+
+- Shell Avançado:
+Arrays e manipulação avançada de strings.
+Manipulação de processos e variáveis de ambiente.
+Depuração e técnicas de logging.
+
+- HTML:
+Fundamentos de HTML:
+Estrutura básica de um documento HTML.
+Tags, atributos e elementos principais.
+Formulários e elementos de entrada.
+
+- Estilização com CSS:
+Integração de CSS em documentos HTML.
+Seletores CSS e propriedades básicas de estilo.
+Layouts responsivos e frameworks CSS populares.
+
+- HTML5 e Recursos Avançados:
+Novas tags semânticas em HTML5.
+Áudio, vídeo e elementos de mídia.
+APIs JavaScript disponíveis (geolocalização, armazenamento local).
+
+- Acessibilidade e SEO:
+Práticas para melhorar a acessibilidade em HTML.
+Otimização para mecanismos de busca (SEO básico).
+
+- Integração de Shell Script com HTML:
+- Geração de Páginas Dinâmicas:
+Utilização de CGI (Common Gateway Interface).
+Scripts shell como backend para formulários HTML.
+Exemplos de scripts que geram páginas HTML dinamicamente.
